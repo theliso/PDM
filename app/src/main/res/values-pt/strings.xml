@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Fechar</string>
+    <string name="title_activity_user_info">Perfil</string>
+    <string name="logout">Terminar Sessão</string>
+    <string name="connect_internet">Ligue-se à Internet</string>
+    <string name="not_available">Não Disponível</string>
+    <string name="insert_user_id">Por favor insira um utilizador</string>
+    <string name="insert_organization_id">Por favor insira uma organização</string>
+    <string name="insert_token">Por favor insira um Token de Acesso Pessoal</string>
+    <string name="chat_hint">Escreva aqui uma mensagem</string>
+    <string name="teams">Equipas</string>
+    <string name="user_id">ID do utilizador</string>
+    <string name="organization_id">ID da organização</string>
+    <string name="pat">Token de Acesso Pessoal</string>
+    <string name="reset">REINICIAR</string>
+    <string name="next">SEGUINTE</string>
+    <string name="chat">Conversa</string>
+    <string name="name">Nome:</string>
+    <string name="username">Nome de utilizador:</string>
+    <string name="email">Email:</string>
+    <string name="followers">Seguidores:</string>
+</resources>

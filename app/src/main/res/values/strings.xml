@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">YAMA</string>
+    <string name="title_activity_user_info">Profile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">YAMA App</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="logout">Logout</string>
+    <string name="connect_internet">Connect to Internet</string>
+    <string name="not_available">Not Available</string>
+    <string name="insert_user_id">Please insert a user ID</string>
+    <string name="insert_organization_id">Please insert a organization ID</string>
+    <string name="insert_token">Please insert a Personal Access Token</string>
+    <string name="chat_hint">Type here to chat ...</string>
+    <string name="info" translatable="false">Info</string>
+    <string name="teams">Teams</string>
+    <string name="user_id">UserID</string>
+    <string name="organization_id">OrganizationID</string>
+    <string name="pat">Personal Access Token</string>
+    <string name="reset">RESET</string>
+    <string name="next">NEXT</string>
+    <string name="chat">Chat</string>
+    <string name="name">Name:</string>
+    <string name="username">User Name:</string>
+    <string name="email">Email:</string>
+    <string name="followers">Followers:</string>
+</resources>
